@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10f67d829233f6a43bd06d7ea5b06802, type: 3}
+  m_Name: MachineGun
+  m_EditorClassIdentifier: 
+  weaponName: MachineGun
+  weaponProjectile: {fileID: 1509763987176894800, guid: b2a33778e5f487340831b4de06475ae1, type: 3}
+  weaponSprite: {fileID: -144335857, guid: 0d5e657ee5a074e4baa53d5b248a01d2, type: 3}
+  weaponDamage: 10
+  weaponCooldown: 0.7
+  weaponRange: 10
+  weaponProjectileSpeed: 10
+  remainingBullets: 100
